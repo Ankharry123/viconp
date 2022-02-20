@@ -1,0 +1,17 @@
+{
+  "name": "viconr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "regdata.js",
+  "scripts": {
+    "start": "node regdata.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "node": "^17.4.0"
+  }
+}
